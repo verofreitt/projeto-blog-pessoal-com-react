@@ -1,6 +1,5 @@
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-import { Link, useNavigate } from 'react-router-dom'
-import React from 'react'
+import { Link } from 'react-router-dom'
 
 
 function Navbar() {
